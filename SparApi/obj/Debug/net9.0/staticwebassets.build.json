@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "VQpS4ZcAo76UhQ5qHu4ZoTjDoHi0Jpk7zapKFu8+OWs=",
+  "Source": "SparApi",
+  "BasePath": "_content/SparApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
