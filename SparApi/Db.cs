@@ -14,9 +14,11 @@ public class ProductDb()
 {
     private static List<Product> _products = new List<Product>
     {
-        new Product { Id = 1, Name = "Product 1", Description = "Coffee", Price = 10.99m, Stock = 100, ImageUrl = "https://postimg.cc/kVJtmVpX", Category = "Category 1" },
-        new Product { Id = 2, Name = "Product 2", Description = "Milk", Price = 20.99m, Stock = 50, ImageUrl = "https://postimg.cc/kVJtmVpX", Category = "Category 2" },
-        new Product { Id = 3, Name = "Product 3", Description = "Sugar", Price = 30.99m, Stock = 0, ImageUrl = "https://postimg.cc/kVJtmVpX", Category = "Category 3" }
+        new Product { Id = 1, Name = "Albany", Description = "Brown bread", Price = 10.99m, Stock = 100, ImageUrl = "https://postimg.cc/kVJtmVpX", Category = "Category 1" },
+        new Product { Id = 2, Name = "Sugar", Description = "White sugar", Price = 20.99m, Stock = 50, ImageUrl = "https://postimg.cc/kVJtmVpX", Category = "Category 2" },
+        new Product { Id = 3, Name = "Milk", Description = "powder milk", Price = 30.99m, Stock = 0, ImageUrl = "https://postimg.cc/kVJtmVpX", Category = "Category 3" },
+        new Product { Id = 4, Name = "Eggs", Description = "Large eggs", Price = 15.99m, Stock = 200, ImageUrl = "https://postimg.cc/kVJtmVpX", Category = "Category 4" },
+        new Product { Id = 5, Name = "Butter", Description = "Salted butter", Price = 25.99m, Stock = 75, ImageUrl = "https://postimg.cc/kVJtmVpX", Category = "Category 5" }
     };
     //
     public static List<Product> GetProducts()  // Get all products
