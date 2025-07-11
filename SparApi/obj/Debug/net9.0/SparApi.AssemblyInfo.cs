@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SparApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e1af1efa505fbbfb0a8b1d86e501f95d2a728d7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a6a4d53e74c984bf3d02011f15290dc229620698")]
 [assembly: System.Reflection.AssemblyProductAttribute("SparApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SparApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
